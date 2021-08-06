@@ -1,0 +1,1 @@
+/home/ec2-user/nextflow/nextflow run main.nf -bucket-dir s3://nextflow-work-bucket/work/ -profile batch -with-report report/report.html
